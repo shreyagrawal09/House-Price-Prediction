@@ -1,0 +1,4 @@
+Built regression models to predict housing prices using features like size, location, and age of house.
+Performed data cleaning, feature analysis, and model evaluation using RMSE and R² metrics.
+Implemented Linear Regression and Decision Tree Regression, achieving accurate price predictions.
+Used Python, Pandas, and Scikit-learn for data processing and model development.
