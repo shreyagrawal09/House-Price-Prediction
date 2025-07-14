@@ -61,11 +61,6 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
-<--
-## 🌐 Live App
-
-> **Coming Soon:** Will be available after deployment on [Streamlit Cloud](https://streamlit.io/cloud).
--->
 ## 🚀 Future Enhancements
 
 - Use advanced models (Random Forest, XGBoost)
