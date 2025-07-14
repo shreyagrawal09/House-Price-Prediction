@@ -1,6 +1,6 @@
 # 🏠 House Price Prediction using Machine Learning
 
-This is a final year Machine Learning project that predicts house prices using the California Housing dataset. The model is deployed as a web app using Streamlit.
+This is a Machine Learning project that predicts house prices using the California Housing dataset. The model is deployed as a web app using Streamlit.
 
 ## 📁 Project Structure
 
@@ -66,10 +66,6 @@ streamlit run app.py
 
 > **Coming Soon:** Will be available after deployment on [Streamlit Cloud](https://streamlit.io/cloud).
 
-## 📷 App Preview
-
-_A screenshot or GIF of the app UI can go here_
-
 ## 🚀 Future Enhancements
 
 - Use advanced models (Random Forest, XGBoost)
@@ -83,6 +79,3 @@ _A screenshot or GIF of the app UI can go here_
 - **Email**: agrawalshrey02@gmail.com
 - **College**: Pranveer Singh Institute of Technology
 
----
-
-> 🔧 **Note:** This project was built as a full-stack ML solution for a college final year project, showcasing data analysis, modeling, and deployment.
